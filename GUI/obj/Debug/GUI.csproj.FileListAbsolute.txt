@@ -1,0 +1,1173 @@
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\bin\Debug\GUI.exe.config
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\bin\Debug\GUI.exe
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\bin\Debug\GUI.pdb
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\bin\Debug\Guna.UI2.dll
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.exe
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.pdb
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.exe.config
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.DANGNHAP.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.TRANGCHU.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH\GUI\obj\Debug\GUI.THONGTINCANHAN.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHAN.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+D:\HỌC KỲ\HK1_2025-2026\CNPM\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHAN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.GAMEFLASHCARD.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.TheCauHoi.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.SAPXEPCAU.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form2.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form3.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.GAMEFLASHCARD.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.SAPXEPCAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form3.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.GAMEFLASHCARD.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.SAPXEPCAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form3.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.GAMEFLASHCARD.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.SAPXEPCAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GoiTenNgauNhien.Form3.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\SapXepCau.frmChoiGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\SapXepCau.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\SapXepCau.frmTaoGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.LichSuGameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.Form1.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.Form1.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.VONGQUAY.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\FlashcardFlipGame.Form1.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.LichSuGameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\SapXepCau.frmChoiGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\SapXepCau.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\SapXepCau.frmTaoGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.LSVONGQUAY.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\RANDOMSO.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formSuaHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.formThemHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.frmPhanCongGiangDay.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.FRM_NHAPDIEM.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.FRM_QUANLY_NOTE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_ChiTietLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.formSuaHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.formThemHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.frmPhanCongGiangDay.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.FRM_NHAPDIEM.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.FRM_QUANLY_NOTE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\FlashcardFlipGame.Form1.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GAME1_.LichSuGameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\SapXepCau.frmChoiGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\SapXepCau.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\SapXepCau.frmTaoGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\RANDOMSO.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\RANDOMSO.LSVONGQUAY.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_ChiTietLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\GUI\obj\Debug\GUI.UC_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.formSuaHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.formThemHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.frmPhanCongGiangDay.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.FRM_NHAPDIEM.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.FRM_QUANLY_NOTE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.DIEMDANH.FRM_CHITIET_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\FlashcardFlipGame.Form1.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GAME1_.LichSuGameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\SapXepCau.frmChoiGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\SapXepCau.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\SapXepCau.frmTaoGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\RANDOMSO.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\RANDOMSO.LSVONGQUAY.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_ChiTietLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\QRCoder.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.formSuaHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.formThemHocSinh.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.formThemLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.frmPhanCongGiangDay.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.FRM_NHAPDIEM.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.FRM_QUANLY_NOTE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.CONGCU.BANGTRANG.BANGTRANG.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.GOITENNGAUNHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.CAMERA_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.CHINHSUAQLGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.CHINHSUATTMONLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.Config.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.DANGNHAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.DIEMDANH.FRM_CHITIET_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.DIEMDANH.MENUDIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.formThemMon.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.MENUCONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\Calendar.ElegantReminderForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\Calendar.EventDetailsForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\Calendar.EventForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\Calendar.MainForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.MENU_CHINHSUA.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TAOQR.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.THONGTINADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.THONGTINCANHANGV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TRANGCHU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.THAYDOIMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.QUENMATKHAU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TRANGCHUADMIN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\FlashcardFlipGame.CreateDeckForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\FlashcardFlipGame.Form1.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TROCHOIHOCTAP.GIAODIEN.NGHECHONHINH2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TROCHOIHOCTAP.MENUTROCHOI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GAME1_.LichSuGameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GAME1_.TAOCAUHOI_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GAME1_.TAOGAME_NGHECHONHINH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GAME1_.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\SapXepCau.frmChoiGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\SapXepCau.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\SapXepCau.frmTaoGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\RANDOMSO.frmLichSuGame.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\RANDOMSO.LSVONGQUAY.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\RANDOMSO.GameForm.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.TheCauHoi.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.TROCHOIHOCTAP.VONGQUAYMAYMAN.VONGQUAYMAYMAN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_ChiTietLop.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_CONGCU.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_CONGCU_BANGDIENTU_MINI.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_CONGCU_DONGHODEMNGUOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_CONGCU_GOITENNGAU_NHIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_DANHSACHLOP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_DANHSACHLOPVERSION2.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_DIEMDANH.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_KQHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_MON_GV.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_QLLOPHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_QLMONHOC.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_THONGKE.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_TROCHOIHOCTAP.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.exe
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\ExcelDataReader.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\ExcelDataReader.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\ExcelDataReader.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.UC_QLGIAOVIEN.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\GUI\obj\Debug\GUI.exe.config

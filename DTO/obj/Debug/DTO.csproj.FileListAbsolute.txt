@@ -1,0 +1,313 @@
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\BaiNop\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_5\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\ĐỒ ÁN\DoAn\Login\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+D:\4th in University\Software Engineering\Large Lab\Clone\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\Clone_6\Clone_6\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu-ver.0\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\DTO\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\obj\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\System.ValueTuple.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\System.ValueTuple.xml

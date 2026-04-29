@@ -1,0 +1,136 @@
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\obj\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\edu_ver0_git_new\edu_ver0_git\QUANLYHOCSINH - Copy\BUS\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2\BUS\obj\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\edu_ver0_git_new_2_diemdanh\BUS\obj\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\BUS.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\DAL.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\DAL.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\DAL.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\DTO.dll.config
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\obj\Debug\BUS.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\ExcelDataReader.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\System.ValueTuple.dll
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\ExcelDataReader.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\ExcelDataReader.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HUONG\Downloads\edu-ver.0\N16\BUS\bin\Debug\System.ValueTuple.xml
