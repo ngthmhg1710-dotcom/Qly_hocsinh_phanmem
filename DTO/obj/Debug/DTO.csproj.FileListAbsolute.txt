@@ -311,3 +311,47 @@ C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.xml
 C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.pdb
 C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.xml
 C:\Users\HUONG\Downloads\edu-ver.0\N16\DTO\bin\Debug\System.ValueTuple.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\DTO.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AForge.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\FastReport.Compat.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Core.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\System.ValueTuple.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\zxing.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\zxing.presentation.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AForge.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Core.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\System.ValueTuple.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\zxing.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\bin\Debug\zxing.presentation.xml
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.dll
+C:\Users\HUONG\Downloads\HK1_25_26\CNPM\final cnpm\edu-ver.0\N16\DTO\obj\Debug\DTO.pdb

@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
       <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
@@ -790,6 +793,7 @@
     <None Include="Resources\DiemDanh.png" />
     <None Include="Properties\rotary-phone-ring-medium-103869.wav" />
     <None Include="Resources\correct-356013.mp3" />
+    <Content Include="logo.ico" />
     <Content Include="Resources\dustbin.png" />
     <None Include="Resources\ViewStudent.png" />
   </ItemGroup>
